@@ -1,6 +1,6 @@
 #  JJK Gesture-Controlled Web App
 
-A real-time browser-based hand gesture recognition app inspired by *Jujutsu Kaisen*.
+A real-time browser based hand gesture recognition app inspired by *Jujutsu Kaisen*.
 Uses your webcam to detect hand signs and trigger animated techniques such as **Red**, **Blue**, **Hollow Purple**, and **Domain Expansion**.
 
 ---
@@ -19,7 +19,7 @@ Uses your webcam to detect hand signs and trigger animated techniques such as **
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **JavaScript (Vanilla)**
 * **HTML5 / CSS3**
@@ -92,7 +92,7 @@ index.html
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Works best in **Chrome**
 * Requires webcam permission
@@ -100,7 +100,7 @@ index.html
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Gesture smoothing & stability detection
 * Improved visual effects (Three.js / shaders)
