@@ -3,7 +3,7 @@
 A real-time browser based hand gesture recognition app inspired by *Jujutsu Kaisen*.
 Uses your webcam to detect hand signs and trigger animated techniques such as **Red**, **Blue**, **Hollow Purple**, and **Domain Expansion**.
 
----
+
 
 ##  Features
 
@@ -17,7 +17,7 @@ Uses your webcam to detect hand signs and trigger animated techniques such as **
 *  Particle effects, energy orbs, and screen flashes
 *  Audio effects for each technique
 
----
+
 
 ##  Technologies Used
 
@@ -27,7 +27,7 @@ Uses your webcam to detect hand signs and trigger animated techniques such as **
 * **MediaPipe Hands** (hand tracking & landmarks)
 * **Web Audio API**
 
----
+
 
 ##  Project Structure
 
@@ -44,7 +44,7 @@ jjk-hand-sign-app/
     
 ```
 
----
+
 
 ##  How It Works
 
@@ -64,7 +64,7 @@ Custom logic is used to:
 * detect gesture transitions
 * combine multiple hands into a single technique
 
----
+
 
 ##  How to Run
 
@@ -90,7 +90,7 @@ index.html
 
 4. Allow camera access in your browser
 
----
+
 
 ##  Notes
 
@@ -98,7 +98,7 @@ index.html
 * Requires webcam permission
 * Gesture detection may vary depending on lighting and hand positioning
 
----
+
 
 ##  Future Improvements
 
@@ -108,9 +108,9 @@ index.html
 * Mobile support
 * More techniques & animations
 
----
 
----
+
+
 
 ##  What I Learned
 
@@ -120,11 +120,11 @@ index.html
 * Handling asynchronous events and user input
 * Structuring interactive front end applications
 
----
 
-## 📬 Contact
+
+##  Contact
 
 If you're interested in this project or want to discuss opportunities, feel free to connect!
 
----
+
 
