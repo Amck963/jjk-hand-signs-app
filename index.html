@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JJK Hand Sign App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <video id="video" autoplay playsinline muted></video>
+    <canvas id="outputCanvas"></canvas>
+    <canvas id="effectCanvas"></canvas>
+
+    <div id="ui">
+      <h1>JJK Technique Demo</h1>
+      <p>
+        Red, Blue, Hollow Purple, and Domain Expansion.
+      </p>
+      <div id="status">Waiting for hand...</div>
+    </div>
+
+    <div id="techniqueText"></div>
+    <div id="flash"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"></script>
+
+  <script src="app.js"></script>
+</body>
+</html>
